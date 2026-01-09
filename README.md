@@ -1,41 +1,91 @@
-# 🎮 Sunny Steps (Unity)
+🎮 Sunny Steps (Unity 2D Platformer)
 
-A simple 2D platformer game built with **Unity**.  
-The player must avoid spikes and do obstacle courses beware that enemies are included
+Sunny Steps is a simple 2D platformer game developed in Unity using C#.
+The goal is to navigate through obstacle-filled levels, avoid spikes, and survive enemy encounters by timing jumps and movement carefully.
 
----
+This project was created to practice Unity fundamentals, basic game mechanics, and completing a full playable game loop from start to finish.
 
 ## 🎮 Gameplay Preview
 ![Gameplay GIF](game.gif)
 
----
+📦 Download & Play
 
-## 📦 Download & Play
-- (https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing)  
+▶️ Playable Build:
+https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing
 
+Note: Download the folder and run the executable to play.
 
----
+🕹️ Gameplay Overview
 
-## 🛠️ Features
-- Endless road generation  
+Control a player character in a 2D side-scrolling environment
 
+Jump across platforms and avoid falling into hazards
 
----
+Dodge spikes and enemies placed throughout the level
 
-## 📚 What I Learned
-- Unity fundamentals: sprites, basic animator, game objects  
-- Writing scripts in **C#**  
-- Learned using sprites as assets
-- Designing and testing a complete game loop  
+Progress through obstacle-based platforming challenges
 
----
+The game focuses on precision movement and timing, typical of classic 2D platformers.
 
-## ⚙️ Built With
-- [Unity](https://unity.com/)  
-- C#  
-- Visual Studio / VS Code  
+🛠️ Features
 
----
+2D player movement and jumping system
+
+Basic enemy obstacles
+
+Hazard system (spikes)
+
+Collision-based death and restart
+
+Simple animations using Unity Animator
+
+Complete playable level from start to finish
+
+📚 What I Learned
+
+Through building this project, I learned:
+
+Unity 2D fundamentals (sprites, colliders, rigidbodies)
+
+Creating and controlling GameObjects
+
+Writing gameplay logic using C# scripts
+
+Using the Animator for character animations
+
+Implementing basic enemy and obstacle behavior
+
+Designing and testing a full game loop
+
+Importing and managing sprite assets
+
+⚙️ Built With
+
+Unity
+
+C#
+
+Visual Studio / VS Code
+
+🚀 Future Improvements
+
+Possible improvements for future versions:
+
+Improved jump feel (coyote time, jump buffering)
+
+Checkpoint system
+
+Sound effects and background music
+
+Additional enemy types
+
+More levels and level variety
+
+👤 Author
+
+Developed by Jobparado
+Beginner Unity & Game Developer
+Portfolio: https://jobparado.github.io/Github-portfolio/
 
 ## 👤 Author
 **Job Aebraham A. Parado**  
