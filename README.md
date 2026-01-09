@@ -17,6 +17,7 @@ https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sha
 
 
 🕹️ Gameplay Overview
+
 Control a player character in a 2D side-scrolling environment
 Jump across platforms and avoid falling into hazards
 Dodge spikes and enemies placed throughout the level
@@ -26,6 +27,7 @@ The game focuses on precision movement and timing, typical of classic 2D platfor
 
 
 🛠️ Features
+
 2D player movement and jumping system
 Basic enemy obstacles
 Hazard system (spikes)
@@ -35,6 +37,7 @@ Complete playable level from start to finish
 
 
 📚 What I Learned
+
 Through building this project, I learned:
 Unity 2D fundamentals (sprites, colliders, rigidbodies)
 Creating and controlling GameObjects
@@ -46,18 +49,15 @@ Importing and managing sprite assets
 
 
 ⚙️ Built With
+
 Unity
 C#
 Visual Studio / VS Code
 
 
+
 👤 Author
 
-Developed by Jobparado
-Beginner Unity & Game Developer
-Portfolio: https://jobparado.github.io/Github-portfolio/
-
-## 👤 Author
 **Job Aebraham A. Parado**  
 - GitHub: [@JobParado](https://github.com/JobParado)  
 - Portfolio: [@JobParado.github.io](https://your-username.github.io)  
