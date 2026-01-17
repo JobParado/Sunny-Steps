@@ -60,4 +60,4 @@ Visual Studio / VS Code
 
 **Job Aebraham A. Parado**  
 - GitHub: [@JobParado](https://github.com/JobParado)  
-- Portfolio: [@JobParado.github.io](https://your-username.github.io)  
+- Portfolio: [@JobParado.github.io]([https://your-username.github.io](https://github.com/JobParado))  
