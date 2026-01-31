@@ -6,13 +6,21 @@ The goal is to navigate through obstacle-filled levels, avoid spikes, and surviv
 This project was created to practice Unity fundamentals, basic game mechanics, and completing a full playable game loop from start to finish.
 
 ## 🎮 Gameplay Preview
-![Gameplay GIF](game.gif)
+![Gameplay GIF]
+(<video src="vid/Sunny_Steps Gameplay.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+)
 
 📦 Download & Play
 
-▶️ Playable Build:
-https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing
+▶️ Playable Build
 
+PC Version:
+[https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing](https://drive.google.com/file/d/1k2eqsCoPmOw41k4q8e1HPTbkAft7dZzo/view?usp=sharing)
+
+Android Version:
+[https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing](https://drive.google.com/file/d/1S74LR06GujYLZMCPWsjeDVJhjLa7Nijp/view?usp=sharing)
 
 
 
