@@ -28,6 +28,7 @@ Jump across platforms and avoid falling into hazards
 Dodge spikes and enemies placed throughout the level
 Progress through obstacle-based platforming challenges
 The game focuses on precision movement and timing, typical of classic 2D platformers.
+Game uses physics eg pushing a blocks to progress on the levels
 
 
 
@@ -38,7 +39,7 @@ Basic enemy obstacles
 Hazard system (spikes)
 Collision-based death and restart
 Simple animations using Unity Animator
-Complete playable level from start to finish
+Complete playable 3 levels from start to finish
 
 
 📚 What I Learned
@@ -65,4 +66,3 @@ Visual Studio / VS Code
 
 **Job Aebraham A. Parado**  
 - GitHub: [@JobParado](https://github.com/JobParado)  
-- Portfolio: [@JobParado.github.io]([https://your-username.github.io](https://github.com/JobParado))  
