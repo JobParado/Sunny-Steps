@@ -6,7 +6,6 @@ The goal is to navigate through obstacle-filled levels, avoid spikes, and surviv
 This project was created to practice Unity fundamentals, basic game mechanics, and completing a full playable game loop from start to finish.
 
 ## 🎮 Gameplay Preview
-![Gameplay GIF]
 ![Sunny Steps Gameplay](vid/Sunny_Steps Gameplay.gif)
 
 
