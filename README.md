@@ -7,7 +7,7 @@ This project was created to practice Unity fundamentals, basic game mechanics, a
 
 ## 🎮 Gameplay Preview
 ![Gameplay GIF]
-<video src="vid/Sunny_Steps Gameplay.gif" muted loop autoplay></video>
+![Sunny Steps Gameplay](vid/Sunny_Steps Gameplay.gif)
 
 
 📦 Download & Play
