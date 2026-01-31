@@ -7,10 +7,8 @@ This project was created to practice Unity fundamentals, basic game mechanics, a
 
 ## 🎮 Gameplay Preview
 ![Gameplay GIF]
-(<video src="vid/Sunny_Steps Gameplay.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
-)
+<video src="vid/Sunny_Steps Gameplay.mp4" controls="controls" loop autoplay></video>
+
 
 📦 Download & Play
 
