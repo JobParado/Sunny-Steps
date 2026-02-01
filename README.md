@@ -65,4 +65,5 @@ Visual Studio / VS Code
 👤 Author
 
 **Job Aebraham A. Parado**  
-- GitHub: [@JobParado](https://github.com/JobParado)  
+- GitHub: [@JobParado](https://github.com/JobParado)
+- Assets used and sounds also credited  
