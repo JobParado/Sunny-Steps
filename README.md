@@ -13,11 +13,8 @@ This project was created to practice Unity fundamentals, basic game mechanics, a
 
 ▶️ Playable Build
 
-PC Version:
-https://drive.google.com/file/d/1vAb58p5rG2CW4pNsRF_wQUCHhdrBZOKw/view?usp=sharing
-
-Android Version:
-https://drive.google.com/file/d/16VZFH5h4sB_HFj7rtm46tEzRdp4pFIcz/view?usp=sharing
+PC Version & Android Version:
+https://elite-gamer123.itch.io/sunny-steps
 
 
 
