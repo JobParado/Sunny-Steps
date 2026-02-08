@@ -14,10 +14,10 @@ This project was created to practice Unity fundamentals, basic game mechanics, a
 ▶️ Playable Build
 
 PC Version:
-[https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing](https://drive.google.com/file/d/1k2eqsCoPmOw41k4q8e1HPTbkAft7dZzo/view?usp=sharing)
+https://drive.google.com/file/d/1jKRJtYuq1etrxkq2QG748eFWpW-1TjCR/view?usp=sharing
 
 Android Version:
-[https://drive.google.com/drive/folders/1N3n49poTtmx_Po_h_MDVqxPuNtJ2aLvN?usp=sharing](https://drive.google.com/file/d/1S74LR06GujYLZMCPWsjeDVJhjLa7Nijp/view?usp=sharing)
+https://drive.google.com/file/d/16VZFH5h4sB_HFj7rtm46tEzRdp4pFIcz/view?usp=sharing
 
 
 
